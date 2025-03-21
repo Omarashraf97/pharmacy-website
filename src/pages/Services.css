@@ -35,10 +35,11 @@ span {
   cursor: pointer;
   text-align: center;
   min-width: 280px;
-  max-width: 350px;
+  max-width: 450px;
   min-height: 400px;
   flex: 1 1 calc(33.33% - 40px); 
 }
+
 
 .service-card:hover {
   background-color: rgb(14, 63, 86);
@@ -59,10 +60,20 @@ span {
   margin-top: 20px;
   color: #2d6a4f;
   transition: color 0.3s ease-in-out;
+  margin-bottom: 20px;
 }
 
 .service-card:hover .service-icon {
   color: white;
+}
+
+.service-card h3{
+  margin-bottom: 20px;
+  font-size: 2.3rem !important;
+  font-weight: 513 !important;
+}
+.service-card p{
+  font-size: 1.5rem !important;
 }
 
 
@@ -85,14 +96,14 @@ span {
 
 @media (max-width: 480px) {
   .services-title {
-    font-size: 3rem;
+    font-size: 3rem !important;
   }
   .service-card {
     flex: 1 1 100%; 
     min-height: 320px;
   }
   .service-icon {
-    font-size: 40px;
+    font-size: 40px !important;
   }
   h3 {
     font-size: 1.8rem !important;
