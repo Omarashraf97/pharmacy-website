@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pharmacy-website/static/css/main.48c7a777.css",
+    "main.js": "/pharmacy-website/static/js/main.af8c54bb.js",
+    "static/media/fa-solid-900.ttf": "/pharmacy-website/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/16016499_l.jpg": "/pharmacy-website/static/media/16016499_l.ee89fcac34ab87a675cb.jpg",
+    "static/media/fa-brands-400.ttf": "/pharmacy-website/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/bootstrap-icons.woff?": "/pharmacy-website/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/pharmacy-website/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/bootstrap-icons.woff2?": "/pharmacy-website/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/pharmacy-website/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/pharmacy-website/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/OIP.jpeg": "/pharmacy-website/static/media/OIP.e44d1e01f44a046da80b.jpeg",
+    "static/media/fa-regular-400.woff2": "/pharmacy-website/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/pharmacy-website/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/pharmacy-website/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/pharmacy-website/index.html",
+    "main.48c7a777.css.map": "/pharmacy-website/static/css/main.48c7a777.css.map",
+    "main.af8c54bb.js.map": "/pharmacy-website/static/js/main.af8c54bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c7a777.css",
+    "static/js/main.af8c54bb.js"
+  ]
+}
